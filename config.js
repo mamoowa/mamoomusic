@@ -26,7 +26,7 @@ module.exports = {
   nodes: [
       {
       name: "MAMOO",
-      password: "mamoo",
+      password: "mamoowa",
       host: "mamoo.up.railway.app",
       port: 443,
       secure: true
