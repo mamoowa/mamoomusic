@@ -29,7 +29,7 @@ module.exports = {
       password: "mamoo",
       host: "mamoo.up.railway.app",
       port: 443,
-      secure: false
+      secure: true
     }
   ]
 }
